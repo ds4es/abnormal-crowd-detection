@@ -2,4 +2,6 @@
 
 Project not started yet waiting for contributors.
 
-Starting point: https://github.com/Gevornairi/AbnormarCrowdDetection
+Starting point:
+* https://github.com/Gevornairi/AbnormarCrowdDetection
+* https://github.com/davidhaohanli/Abnormal-Behaviour-Detection
